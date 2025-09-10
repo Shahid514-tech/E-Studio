@@ -5,10 +5,10 @@ import AOS from "aos";
 import "aos/dist/aos.css"; // Import AOS CSS
 import { useEffect } from "react";
 import { Outlet, useNavigate } from "react-router";
-import { RedirectIfAuthenticated } from "./components/auth/RedirectIfAuthenticated";
+import { RedirectIfAuthenticated } from "@/components/auth/RedirectIfAuthenticated";
 import { Protect } from "@clerk/clerk-react";
 import { Sidebar } from "@/components/Sidebar";
-import { UserProvider } from "./components/data/userContext";
+import { UserProvider } from "@/components/data/UserContext";
 
 function App() {
   useEffect(() => {
