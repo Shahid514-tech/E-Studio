@@ -1,0 +1,38 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "An Express backend server for Project v0",
+  "keywords": [
+    "Express",
+    "Machine",
+    "Learning",
+    "NodeJS"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "None"
+  },
+  "license": "ISC",
+  "author": "Shahid S. Shaikh",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "node --watch --env-file=.env index.js",
+    "dev": "node --env-file=.env --watch index.js",
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@langchain/community": "^0.3.48",
+    "@langchain/core": "^0.3.62",
+    "@langchain/google-genai": "^0.2.14",
+    "@langchain/langgraph": "^0.3.6",
+    "@langchain/openai": "^0.5.18",
+    "cors": "^2.8.5",
+    "ejs": "^3.1.10",
+    "express": "^5.1.0",
+    "googleapis": "^150.0.1",
+    "mongoose": "^8.16.3",
+    "mysql2": "^3.14.3",
+    "zod": "^3.25.71"
+  }
+}

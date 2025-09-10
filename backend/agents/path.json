@@ -1,0 +1,782 @@
+{
+  "summary": {
+    "total_hours_required": 87,
+    "user_total_available_hours": 90,
+    "fits_in_schedule": true
+  },
+  "schedule": {
+    "Day 1": [
+      {
+        "phaseId": "phase1",
+        "phase": "Java Fundamentals",
+        "phaseSummary": "Laying the groundwork with core Java programming concepts essential for any Java developer.",
+        "topic": "JDK Setup & IDE Basics",
+        "estimated_time": "2 hours",
+        "difficulty": "beginner",
+        "skillsLearned": [
+          "JDK installation",
+          "IDE setup (IntelliJ/Eclipse)",
+          "Basic project creation"
+        ],
+        "type": "tool",
+        "importance": "core"
+      },
+      {
+        "phaseId": "phase1",
+        "phase": "Java Fundamentals",
+        "phaseSummary": "Laying the groundwork with core Java programming concepts essential for any Java developer.",
+        "topic": "Java Basics: Syntax & Data Types - Part 1",
+        "estimated_time": "1 hour",
+        "difficulty": "beginner",
+        "skillsLearned": [
+          "Variables",
+          "Operators",
+          "Control flow (if/else, loops)",
+          "Basic data structures"
+        ],
+        "type": "language",
+        "importance": "core"
+      }
+    ],
+    "Day 2": [
+      {
+        "phaseId": "phase1",
+        "phase": "Java Fundamentals",
+        "phaseSummary": "Laying the groundwork with core Java programming concepts essential for any Java developer.",
+        "topic": "Java Basics: Syntax & Data Types - Part 2",
+        "estimated_time": "2 hours",
+        "difficulty": "beginner",
+        "skillsLearned": [
+          "Variables",
+          "Operators",
+          "Control flow (if/else, loops)",
+          "Basic data structures"
+        ],
+        "type": "language",
+        "importance": "core"
+      },
+      {
+        "phaseId": "phase1",
+        "phase": "Java Fundamentals",
+        "phaseSummary": "Laying the groundwork with core Java programming concepts essential for any Java developer.",
+        "topic": "Object-Oriented Programming (OOP) in Java - Part 1",
+        "estimated_time": "1 hour",
+        "difficulty": "beginner",
+        "skillsLearned": [
+          "Classes & Objects",
+          "Encapsulation",
+          "Inheritance",
+          "Polymorphism",
+          "Abstraction",
+          "Interfaces"
+        ],
+        "type": "concept",
+        "importance": "core"
+      }
+    ],
+    "Day 3": [
+      {
+        "phaseId": "phase1",
+        "phase": "Java Fundamentals",
+        "phaseSummary": "Laying the groundwork with core Java programming concepts essential for any Java developer.",
+        "topic": "Object-Oriented Programming (OOP) in Java - Part 2",
+        "estimated_time": "3 hours",
+        "difficulty": "beginner",
+        "skillsLearned": [
+          "Classes & Objects",
+          "Encapsulation",
+          "Inheritance",
+          "Polymorphism",
+          "Abstraction",
+          "Interfaces"
+        ],
+        "type": "concept",
+        "importance": "core"
+      }
+    ],
+    "Day 4": [
+      {
+        "phaseId": "phase1",
+        "phase": "Java Fundamentals",
+        "phaseSummary": "Laying the groundwork with core Java programming concepts essential for any Java developer.",
+        "topic": "Java Collections Framework",
+        "estimated_time": "3 hours",
+        "difficulty": "beginner",
+        "skillsLearned": [
+          "Lists (ArrayList, LinkedList)",
+          "Sets (HashSet, TreeSet)",
+          "Maps (HashMap, TreeMap)",
+          "Iterators"
+        ],
+        "type": "library",
+        "importance": "core"
+      }
+    ],
+    "Day 5": [
+      {
+        "phaseId": "phase1",
+        "phase": "Java Fundamentals",
+        "phaseSummary": "Laying the groundwork with core Java programming concepts essential for any Java developer.",
+        "topic": "Exception Handling & File I/O",
+        "estimated_time": "2 hours",
+        "difficulty": "beginner",
+        "skillsLearned": [
+          "Try-catch blocks",
+          "Checked vs Unchecked exceptions",
+          "Reading/writing files",
+          "Resource management (try-with-resources)"
+        ],
+        "type": "concept",
+        "importance": "core"
+      },
+      {
+        "phaseId": "phase1",
+        "phase": "Java Fundamentals",
+        "phaseSummary": "Laying the groundwork with core Java programming concepts essential for any Java developer.",
+        "topic": "Maven/Gradle Build Tools Introduction - Part 1",
+        "estimated_time": "1 hour",
+        "difficulty": "beginner",
+        "skillsLearned": [
+          "Project Object Model (POM)",
+          "Dependencies management",
+          "Build lifecycle",
+          "Basic commands"
+        ],
+        "type": "tool",
+        "importance": "core"
+      }
+    ],
+    "Day 6": [
+      {
+        "phaseId": "phase1",
+        "phase": "Java Fundamentals",
+        "phaseSummary": "Laying the groundwork with core Java programming concepts essential for any Java developer.",
+        "topic": "Maven/Gradle Build Tools Introduction - Part 2",
+        "estimated_time": "2 hours",
+        "difficulty": "beginner",
+        "skillsLearned": [
+          "Project Object Model (POM)",
+          "Dependencies management",
+          "Build lifecycle",
+          "Basic commands"
+        ],
+        "type": "tool",
+        "importance": "core"
+      },
+      {
+        "phaseId": "phase2",
+        "phase": "Web Development Basics",
+        "phaseSummary": "Understanding the fundamental technologies and protocols that power the web.",
+        "topic": "Introduction to Web Concepts: HTTP & Client-Server - Part 1",
+        "estimated_time": "1 hour",
+        "difficulty": "beginner",
+        "skillsLearned": [
+          "HTTP methods (GET, POST)",
+          "Request/Response cycle",
+          "Client-server architecture",
+          "Statelessness"
+        ],
+        "type": "concept",
+        "importance": "core"
+      }
+    ],
+    "Day 7": [
+      {
+        "phaseId": "phase2",
+        "phase": "Web Development Basics",
+        "phaseSummary": "Understanding the fundamental technologies and protocols that power the web.",
+        "topic": "Introduction to Web Concepts: HTTP & Client-Server - Part 2",
+        "estimated_time": "1 hour",
+        "difficulty": "beginner",
+        "skillsLearned": [
+          "HTTP methods (GET, POST)",
+          "Request/Response cycle",
+          "Client-server architecture",
+          "Statelessness"
+        ],
+        "type": "concept",
+        "importance": "core"
+      },
+      {
+        "phaseId": "phase2",
+        "phase": "Web Development Basics",
+        "phaseSummary": "Understanding the fundamental technologies and protocols that power the web.",
+        "topic": "HTML & CSS Fundamentals - Part 1",
+        "estimated_time": "2 hours",
+        "difficulty": "beginner",
+        "skillsLearned": [
+          "HTML structure",
+          "Semantic HTML",
+          "CSS selectors",
+          "Box model",
+          "Basic styling"
+        ],
+        "type": "language",
+        "importance": "core"
+      }
+    ],
+    "Day 8": [
+      {
+        "phaseId": "phase2",
+        "phase": "Web Development Basics",
+        "phaseSummary": "Understanding the fundamental technologies and protocols that power the web.",
+        "topic": "HTML & CSS Fundamentals - Part 2",
+        "estimated_time": "2 hours",
+        "difficulty": "beginner",
+        "skillsLearned": [
+          "HTML structure",
+          "Semantic HTML",
+          "CSS selectors",
+          "Box model",
+          "Basic styling"
+        ],
+        "type": "language",
+        "importance": "core"
+      },
+      {
+        "phaseId": "phase2",
+        "phase": "Web Development Basics",
+        "phaseSummary": "Understanding the fundamental technologies and protocols that power the web.",
+        "topic": "Basic JavaScript for Frontend Interaction - Part 1",
+        "estimated_time": "1 hour",
+        "difficulty": "beginner",
+        "skillsLearned": [
+          "DOM manipulation",
+          "Event handling",
+          "Basic client-side scripting",
+          "Form validation"
+        ],
+        "type": "language",
+        "importance": "core"
+      }
+    ],
+    "Day 9": [
+      {
+        "phaseId": "phase2",
+        "phase": "Web Development Basics",
+        "phaseSummary": "Understanding the fundamental technologies and protocols that power the web.",
+        "topic": "Basic JavaScript for Frontend Interaction - Part 2",
+        "estimated_time": "2 hours",
+        "difficulty": "beginner",
+        "skillsLearned": [
+          "DOM manipulation",
+          "Event handling",
+          "Basic client-side scripting",
+          "Form validation"
+        ],
+        "type": "language",
+        "importance": "core"
+      },
+      {
+        "phaseId": "phase2",
+        "phase": "Web Development Basics",
+        "phaseSummary": "Understanding the fundamental technologies and protocols that power the web.",
+        "topic": "Introduction to Databases & SQL - Part 1",
+        "estimated_time": "1 hour",
+        "difficulty": "beginner",
+        "skillsLearned": [
+          "Relational database concepts",
+          "SQL queries (SELECT, INSERT, UPDATE, DELETE)",
+          "Table creation"
+        ],
+        "type": "concept",
+        "importance": "core"
+      }
+    ],
+    "Day 10": [
+      {
+        "phaseId": "phase2",
+        "phase": "Web Development Basics",
+        "phaseSummary": "Understanding the fundamental technologies and protocols that power the web.",
+        "topic": "Introduction to Databases & SQL - Part 2",
+        "estimated_time": "1 hour",
+        "difficulty": "beginner",
+        "skillsLearned": [
+          "Relational database concepts",
+          "SQL queries (SELECT, INSERT, UPDATE, DELETE)",
+          "Table creation"
+        ],
+        "type": "concept",
+        "importance": "core"
+      },
+      {
+        "phaseId": "phase3",
+        "phase": "Core Java Web Technologies",
+        "phaseSummary": "Diving into traditional Java EE components for building web applications.",
+        "topic": "Servlets: Basics & Lifecycle - Part 1",
+        "estimated_time": "2 hours",
+        "difficulty": "beginner",
+        "skillsLearned": [
+          "Servlet API",
+          "Servlet lifecycle",
+          "Handling HTTP requests/responses",
+          "Servlet mapping"
+        ],
+        "type": "framework",
+        "importance": "core"
+      }
+    ],
+    "Day 11": [
+      {
+        "phaseId": "phase3",
+        "phase": "Core Java Web Technologies",
+        "phaseSummary": "Diving into traditional Java EE components for building web applications.",
+        "topic": "Servlets: Basics & Lifecycle - Part 2",
+        "estimated_time": "2 hours",
+        "difficulty": "beginner",
+        "skillsLearned": [
+          "Servlet API",
+          "Servlet lifecycle",
+          "Handling HTTP requests/responses",
+          "Servlet mapping"
+        ],
+        "type": "framework",
+        "importance": "core"
+      },
+      {
+        "phaseId": "phase3",
+        "phase": "Core Java Web Technologies",
+        "phaseSummary": "Diving into traditional Java EE components for building web applications.",
+        "topic": "JSP (JavaServer Pages): Basics & EL/JSTL - Part 1",
+        "estimated_time": "1 hour",
+        "difficulty": "beginner",
+        "skillsLearned": [
+          "JSP syntax",
+          "Expression Language (EL)",
+          "JSTL tags",
+          "Separation of concerns (MVC view)"
+        ],
+        "type": "framework",
+        "importance": "core"
+      }
+    ],
+    "Day 12": [
+      {
+        "phaseId": "phase3",
+        "phase": "Core Java Web Technologies",
+        "phaseSummary": "Diving into traditional Java EE components for building web applications.",
+        "topic": "JSP (JavaServer Pages): Basics & EL/JSTL - Part 2",
+        "estimated_time": "3 hours",
+        "difficulty": "beginner",
+        "skillsLearned": [
+          "JSP syntax",
+          "Expression Language (EL)",
+          "JSTL tags",
+          "Separation of concerns (MVC view)"
+        ],
+        "type": "framework",
+        "importance": "core"
+      }
+    ],
+    "Day 13": [
+      {
+        "phaseId": "phase3",
+        "phase": "Core Java Web Technologies",
+        "phaseSummary": "Diving into traditional Java EE components for building web applications.",
+        "topic": "JDBC (Java Database Connectivity) - Part 1",
+        "estimated_time": "3 hours",
+        "difficulty": "beginner",
+        "skillsLearned": [
+          "Connecting to databases",
+          "Executing SQL queries via Java",
+          "ResultSet processing",
+          "PreparedStatement"
+        ],
+        "type": "library",
+        "importance": "core"
+      }
+    ],
+    "Day 14": [
+      {
+        "phaseId": "phase3",
+        "phase": "Core Java Web Technologies",
+        "phaseSummary": "Diving into traditional Java EE components for building web applications.",
+        "topic": "JDBC (Java Database Connectivity) - Part 2",
+        "estimated_time": "1 hour",
+        "difficulty": "beginner",
+        "skillsLearned": [
+          "Connecting to databases",
+          "Executing SQL queries via Java",
+          "ResultSet processing",
+          "PreparedStatement"
+        ],
+        "type": "library",
+        "importance": "core"
+      },
+      {
+        "phaseId": "phase3",
+        "phase": "Core Java Web Technologies",
+        "phaseSummary": "Diving into traditional Java EE components for building web applications.",
+        "topic": "MVC Architecture Pattern for Web - Part 1",
+        "estimated_time": "2 hours",
+        "difficulty": "beginner",
+        "skillsLearned": [
+          "Understanding Model-View-Controller",
+          "Applying MVC to web applications",
+          "Benefits of MVC"
+        ],
+        "type": "pattern",
+        "importance": "core"
+      }
+    ],
+    "Day 15": [
+      {
+        "phaseId": "phase3",
+        "phase": "Core Java Web Technologies",
+        "phaseSummary": "Diving into traditional Java EE components for building web applications.",
+        "topic": "MVC Architecture Pattern for Web - Part 2",
+        "estimated_time": "1 hour",
+        "difficulty": "beginner",
+        "skillsLearned": [
+          "Understanding Model-View-Controller",
+          "Applying MVC to web applications",
+          "Benefits of MVC"
+        ],
+        "type": "pattern",
+        "importance": "core"
+      },
+      {
+        "phaseId": "phase3",
+        "phase": "Core Java Web Technologies",
+        "phaseSummary": "Diving into traditional Java EE components for building web applications.",
+        "topic": "Deployment to Tomcat/Jetty",
+        "estimated_time": "2 hours",
+        "difficulty": "beginner",
+        "skillsLearned": [
+          "WAR file creation",
+          "Deploying to application servers",
+          "Server configuration basics"
+        ],
+        "type": "tool",
+        "importance": "core"
+      }
+    ],
+    "Day 16": [
+      {
+        "phaseId": "phase3",
+        "phase": "Core Java Web Technologies",
+        "phaseSummary": "Diving into traditional Java EE components for building web applications.",
+        "topic": "Introduction to RESTful APIs Concepts",
+        "estimated_time": "3 hours",
+        "difficulty": "beginner",
+        "skillsLearned": [
+          "REST principles",
+          "Resource-based design",
+          "HTTP methods in REST",
+          "JSON/XML data formats"
+        ],
+        "type": "concept",
+        "importance": "core"
+      }
+    ],
+    "Day 17": [
+      {
+        "phaseId": "phase4",
+        "phase": "Introduction to Spring Boot",
+        "phaseSummary": "Learning the modern, opinionated framework for building production-ready Java applications quickly.",
+        "topic": "Spring Framework Overview & IoC/DI - Part 1",
+        "estimated_time": "3 hours",
+        "difficulty": "beginner",
+        "skillsLearned": [
+          "Spring ecosystem overview",
+          "Inversion of Control (IoC)",
+          "Dependency Injection (DI)",
+          "Spring Beans"
+        ],
+        "type": "framework",
+        "importance": "core"
+      }
+    ],
+    "Day 18": [
+      {
+        "phaseId": "phase4",
+        "phase": "Introduction to Spring Boot",
+        "phaseSummary": "Learning the modern, opinionated framework for building production-ready Java applications quickly.",
+        "topic": "Spring Framework Overview & IoC/DI - Part 2",
+        "estimated_time": "1 hour",
+        "difficulty": "beginner",
+        "skillsLearned": [
+          "Spring ecosystem overview",
+          "Inversion of Control (IoC)",
+          "Dependency Injection (DI)",
+          "Spring Beans"
+        ],
+        "type": "framework",
+        "importance": "core"
+      },
+      {
+        "phaseId": "phase4",
+        "phase": "Introduction to Spring Boot",
+        "phaseSummary": "Learning the modern, opinionated framework for building production-ready Java applications quickly.",
+        "topic": "Spring Boot Setup & Project Structure - Part 1",
+        "estimated_time": "2 hours",
+        "difficulty": "beginner",
+        "skillsLearned": [
+          "Spring Initializr",
+          "Auto-configuration",
+          "Starter dependencies",
+          "Application properties"
+        ],
+        "type": "framework",
+        "importance": "core"
+      }
+    ],
+    "Day 19": [
+      {
+        "phaseId": "phase4",
+        "phase": "Introduction to Spring Boot",
+        "phaseSummary": "Learning the modern, opinionated framework for building production-ready Java applications quickly.",
+        "topic": "Spring Boot Setup & Project Structure - Part 2",
+        "estimated_time": "1 hour",
+        "difficulty": "beginner",
+        "skillsLearned": [
+          "Spring Initializr",
+          "Auto-configuration",
+          "Starter dependencies",
+          "Application properties"
+        ],
+        "type": "framework",
+        "importance": "core"
+      },
+      {
+        "phaseId": "phase4",
+        "phase": "Introduction to Spring Boot",
+        "phaseSummary": "Learning the modern, opinionated framework for building production-ready Java applications quickly.",
+        "topic": "Spring MVC: Controllers & Request Mapping - Part 1",
+        "estimated_time": "2 hours",
+        "difficulty": "beginner",
+        "skillsLearned": [
+          "@Controller, @RequestMapping",
+          "Handling request parameters",
+          "Model and View resolution",
+          "Thymeleaf/JSP integration"
+        ],
+        "type": "framework",
+        "importance": "core"
+      }
+    ],
+    "Day 20": [
+      {
+        "phaseId": "phase4",
+        "phase": "Introduction to Spring Boot",
+        "phaseSummary": "Learning the modern, opinionated framework for building production-ready Java applications quickly.",
+        "topic": "Spring MVC: Controllers & Request Mapping - Part 2",
+        "estimated_time": "2 hours",
+        "difficulty": "beginner",
+        "skillsLearned": [
+          "@Controller, @RequestMapping",
+          "Handling request parameters",
+          "Model and View resolution",
+          "Thymeleaf/JSP integration"
+        ],
+        "type": "framework",
+        "importance": "core"
+      },
+      {
+        "phaseId": "phase4",
+        "phase": "Introduction to Spring Boot",
+        "phaseSummary": "Learning the modern, opinionated framework for building production-ready Java applications quickly.",
+        "topic": "Spring Data JPA: ORM with Hibernate - Part 1",
+        "estimated_time": "1 hour",
+        "difficulty": "beginner",
+        "skillsLearned": [
+          "Object-Relational Mapping (ORM)",
+          "JPA entities",
+          "Repositories (CrudRepository)",
+          "Basic CRUD operations"
+        ],
+        "type": "framework",
+        "importance": "core"
+      }
+    ],
+    "Day 21": [
+      {
+        "phaseId": "phase4",
+        "phase": "Introduction to Spring Boot",
+        "phaseSummary": "Learning the modern, opinionated framework for building production-ready Java applications quickly.",
+        "topic": "Spring Data JPA: ORM with Hibernate - Part 2",
+        "estimated_time": "3 hours",
+        "difficulty": "beginner",
+        "skillsLearned": [
+          "Object-Relational Mapping (ORM)",
+          "JPA entities",
+          "Repositories (CrudRepository)",
+          "Basic CRUD operations"
+        ],
+        "type": "framework",
+        "importance": "core"
+      }
+    ],
+    "Day 22": [
+      {
+        "phaseId": "phase4",
+        "phase": "Introduction to Spring Boot",
+        "phaseSummary": "Learning the modern, opinionated framework for building production-ready Java applications quickly.",
+        "topic": "Spring Data JPA: ORM with Hibernate - Part 3",
+        "estimated_time": "1 hour",
+        "difficulty": "beginner",
+        "skillsLearned": [
+          "Object-Relational Mapping (ORM)",
+          "JPA entities",
+          "Repositories (CrudRepository)",
+          "Basic CRUD operations"
+        ],
+        "type": "framework",
+        "importance": "core"
+      },
+      {
+        "phaseId": "phase4",
+        "phase": "Introduction to Spring Boot",
+        "phaseSummary": "Learning the modern, opinionated framework for building production-ready Java applications quickly.",
+        "topic": "Spring Security: Basic Authentication - Part 1",
+        "estimated_time": "2 hours",
+        "difficulty": "beginner",
+        "skillsLearned": [
+          "Authentication vs Authorization",
+          "Basic in-memory authentication",
+          "Securing web endpoints"
+        ],
+        "type": "framework",
+        "importance": "core"
+      }
+    ],
+    "Day 23": [
+      {
+        "phaseId": "phase4",
+        "phase": "Introduction to Spring Boot",
+        "phaseSummary": "Learning the modern, opinionated framework for building production-ready Java applications quickly.",
+        "topic": "Spring Security: Basic Authentication - Part 2",
+        "estimated_time": "2 hours",
+        "difficulty": "beginner",
+        "skillsLearned": [
+          "Authentication vs Authorization",
+          "Basic in-memory authentication",
+          "Securing web endpoints"
+        ],
+        "type": "framework",
+        "importance": "core"
+      },
+      {
+        "phaseId": "phase4",
+        "phase": "Introduction to Spring Boot",
+        "phaseSummary": "Learning the modern, opinionated framework for building production-ready Java applications quickly.",
+        "topic": "Building RESTful APIs with Spring Boot - Part 1",
+        "estimated_time": "1 hour",
+        "difficulty": "beginner",
+        "skillsLearned": [
+          "@RestController",
+          "@RequestBody, @ResponseBody",
+          "Handling JSON data",
+          "Building CRUD REST endpoints"
+        ],
+        "type": "framework",
+        "importance": "core"
+      }
+    ],
+    "Day 24": [
+      {
+        "phaseId": "phase4",
+        "phase": "Introduction to Spring Boot",
+        "phaseSummary": "Learning the modern, opinionated framework for building production-ready Java applications quickly.",
+        "topic": "Building RESTful APIs with Spring Boot - Part 2",
+        "estimated_time": "3 hours",
+        "difficulty": "beginner",
+        "skillsLearned": [
+          "@RestController",
+          "@RequestBody, @ResponseBody",
+          "Handling JSON data",
+          "Building CRUD REST endpoints"
+        ],
+        "type": "framework",
+        "importance": "core"
+      }
+    ],
+    "Day 25": [
+      {
+        "phaseId": "phase5",
+        "phase": "Capstone Project",
+        "phaseSummary": "Applying learned concepts to build a simple, end-to-end web application.",
+        "topic": "Project Planning & Setup",
+        "estimated_time": "3 hours",
+        "difficulty": "beginner",
+        "skillsLearned": [
+          "Requirements gathering",
+          "Database schema design",
+          "Project setup with Spring Boot",
+          "Version control (Git basics)"
+        ],
+        "type": "project",
+        "importance": "core"
+      }
+    ],
+    "Day 26": [
+      {
+        "phaseId": "phase5",
+        "phase": "Capstone Project",
+        "phaseSummary": "Applying learned concepts to build a simple, end-to-end web application.",
+        "topic": "Developing Core Features Implementation - Part 1",
+        "estimated_time": "3 hours",
+        "difficulty": "beginner",
+        "skillsLearned": [
+          "Implementing business logic",
+          "Creating controllers and services",
+          "Integrating frontend with backend"
+        ],
+        "type": "project",
+        "importance": "core"
+      }
+    ],
+    "Day 27": [
+      {
+        "phaseId": "phase5",
+        "phase": "Capstone Project",
+        "phaseSummary": "Applying learned concepts to build a simple, end-to-end web application.",
+        "topic": "Developing Core Features Implementation - Part 2",
+        "estimated_time": "3 hours",
+        "difficulty": "beginner",
+        "skillsLearned": [
+          "Implementing business logic",
+          "Creating controllers and services",
+          "Integrating frontend with backend"
+        ],
+        "type": "project",
+        "importance": "core"
+      }
+    ],
+    "Day 28": [
+      {
+        "phaseId": "phase5",
+        "phase": "Capstone Project",
+        "phaseSummary": "Applying learned concepts to build a simple, end-to-end web application.",
+        "topic": "Database Integration & API Endpoints Development",
+        "estimated_time": "3 hours",
+        "difficulty": "beginner",
+        "skillsLearned": [
+          "Connecting to a real database (e.g., H2, MySQL)",
+          "Implementing data persistence with Spring Data JPA",
+          "Exposing RESTful APIs"
+        ],
+        "type": "project",
+        "importance": "core"
+      }
+    ],
+    "Day 29": [
+      {
+        "phaseId": "phase5",
+        "phase": "Capstone Project",
+        "phaseSummary": "Applying learned concepts to build a simple, end-to-end web application.",
+        "topic": "Basic Testing & Deployment Practice",
+        "estimated_time": "3 hours",
+        "difficulty": "beginner",
+        "skillsLearned": [
+          "Writing basic unit tests (JUnit)",
+          "Simple integration tests",
+          "Building WAR/JAR for deployment",
+          "Running application locally"
+        ],
+        "type": "project",
+        "importance": "core"
+      }
+    ]
+  }
+}
