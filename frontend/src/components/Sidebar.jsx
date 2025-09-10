@@ -8,7 +8,7 @@ import {
   TooltipTrigger,
 } from "@/components/ui/tooltip";
 import { useContext } from "react";
-import { UserContext } from "@/components/data/userContext";
+import { UserContext } from "@/components/data/UserContext";
 
 export const Sidebar = () => {
   const { user } = useContext(UserContext);
